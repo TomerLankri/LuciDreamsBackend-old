@@ -1,4 +1,4 @@
-from variables import Input
+from archive.variables import Input
 
 
 class Formula(Input):

@@ -1,5 +1,5 @@
 import Forecast
-from variables import Input
+from archive.variables import Input
 
 
 class Model:
