@@ -1,0 +1,11 @@
+venv
+venv/
+tmp
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.log
+*.db
+*.sqlite3
+

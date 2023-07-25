@@ -1,0 +1,10 @@
+# .dockerignore
+
+# Files and directories to be excluded from the Docker image build
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.log
+venv
